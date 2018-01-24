@@ -1,5 +1,6 @@
 from:git-pro-2.0
 spring:
-	datasource:
-		username:user_pro
+  datasource:
+  username:
+   user_pro
 
