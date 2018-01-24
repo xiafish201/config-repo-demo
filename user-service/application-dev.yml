@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: user_dev
+
+check:
+  uri: dev-1.0
