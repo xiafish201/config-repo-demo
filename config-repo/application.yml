@@ -1,5 +1,5 @@
-from:git-pro-2.0
+from: git-pro-2.0
 spring:
-	datasource:
-		username:lxm
+  datasource:
+    username: lxm
 
