@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: '{cipher}0f1756729969ee51911361173f82b399e2b2c9090813d50bb1adca13f7b54ae0'
+
+check:
+  uri: pro-3.0
