@@ -1,0 +1,11 @@
+gateway:
+  ignore:
+    startWith: /static
+    contain: .
+  oauth:
+    prefix: /jwt
+
+  jwt:
+    secret: 123456
+    expiration: 7200
+    header: access-token
